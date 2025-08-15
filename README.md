@@ -44,7 +44,3 @@ Editar
 
 Ejemplo de instalación con **vcpkg**:
 ```bash
-
-<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/f32038ce-2b16-4a9e-aed2-426472e78000" />
-
-vcpkg install openssl:x64-windows
